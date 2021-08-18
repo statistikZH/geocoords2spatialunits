@@ -1,0 +1,45 @@
+
+library(sf)
+library(jsonlite)
+library(tidyverse)
+
+#setwd("~/gitrepos/geocoord2spatialunit/")
+
+
+dat <- jsonlite::fromJSON("https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/data/oicp/ch.bfe.ladestellen-elektromobilitaet.json")
+out<-data.frame()
+
+for(i in dat[["EVSEData"]][[1]]){
+  temp<-data.frame(geocoords=as.character(i$GeoCoordinates$Google))#,names=i$EvseID)
+
+  out<-rbind(out,temp)
+}
+
+pnts<-separate(out,geocoords,c("Longitude","Latitude"),sep=" ",convert=TRUE)
+pnts<-pnts[,c(2,1)]
+
+map <- read_sf("SHAPEFILE_LV95_LN02/swissBOUNDARIES3D_1_3_TLM_HOHEITSGEBIET.shp")
+
+
+# create a points collection
+pnts_sf <- do.call("st_sfc",c(lapply(1:nrow(pnts),
+                                     function(i) {st_point(as.numeric(pnts[i, ]))}), list("crs" = 4326)))
+
+pnts_trans <- st_transform(pnts_sf, 2163) # apply transformation to pnts sf
+map_trans <- st_transform(map, 2163)      # apply transformation to polygons sf
+
+# intersect and extract state name
+pnts$gemeindename <- apply(st_intersects(map_trans, pnts_trans, sparse = FALSE), 2,
+                     function(col) {
+                       map_trans[which(col), ]$NAME
+                     })
+
+pnts$kantonsnum <- apply(st_intersects(map_trans, pnts_trans, sparse = FALSE), 2,
+                     function(col) {
+                       map_trans[which(col), ]$KANTONSNUM
+                     })
+
+pnts$bfs_num <- apply(st_intersects(map_trans, pnts_trans, sparse = FALSE), 2,
+                         function(col) {
+                           map_trans[which(col), ]$BFS_NUMMER
+                         })
