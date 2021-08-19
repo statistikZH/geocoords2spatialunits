@@ -63,4 +63,9 @@ pnts$bfs_num <- apply(st_intersects(map_trans, pnts_trans, sparse = FALSE), 2,
                            map_trans[which(col), ]$BFS_NUMMER
                          })
 
+pnts$gemeindename<-as.character(pnts$gemeindename)
+pnts$kantonsnum<-as.character(pnts$kantonsnum)
+pnts$bfs_num<-as.character(pnts$bfs_num)
 head(pnts)
+
+write.csv(pnts,"output.csv",row.names=F)
