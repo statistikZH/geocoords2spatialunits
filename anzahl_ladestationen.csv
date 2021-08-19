@@ -1,912 +1,912 @@
-"","gemeindename","bfs_num","Anzahl_Ladestationen"
-"1","Aadorf","4551",5
-"2","Aarau","4001",46
-"3","Aarberg","301",5
-"4","Aarburg","4271",5
-"5","Adelboden","561",14
-"6","Adlikon","21",1
-"7","Adliswil","131",33
-"8","Aesch (BL)","2761",12
-"9","Affeltrangen","4711",2
-"10","Affoltern am Albis","2",3
-"11","Agno","5141",2
-"12","Aigle","5401",13
-"13","Aire-la-Ville","6601",4
-"14","Airolo","5061",6
-"15","Albula/Alvra","3542",3
-"16","Allaman","5851",4
-"17","Allschwil","2762",7
-"18","Alpnach","1401",1
-"19","Altdorf (UR)","1201",10
-"20","Altendorf","1341",5
-"21","Altstätten","3251",6
-"22","Amden","3311",2
-"23","Amlikon-Bissegg","4881",2
-"24","Amriswil","4461",8
-"25","Andeer","3701",2
-"26","Andermatt","1202",3
-"27","Andwil (SG)","3441",1
-"28","Anières","6602",1
-"29","Anniviers","6252",6
-"30","Appenzell","3101",5
-"31","Aranno","5143",1
-"32","Arbaz","6261",1
-"33","Arbedo-Castione","5001",6
-"34","Arbon","4401",7
-"35","Ardon","6021",1
-"36","Arlesheim","2763",4
-"37","Arni (BE)","602",1
-"38","Arosa","3921",8
-"39","Arth","1362",2
-"40","Attalens","2321",3
-"41","Au (SG)","3231",5
-"42","Aubonne","5422",6
-"43","Auw","4223",1
-"44","Avegno Gordevio","5324",4
-"45","Avenches","5451",2
-"46","Ayent","6082",6
-"47","Baar","1701",72
-"48","Bachenbülach","51",10
-"49","Bad Ragaz","3291",9
-"50","Bad Zurzach","4323",3
-"51","Baden","4021",21
-"52","Balerna","5242",6
-"53","Balgach","3232",1
-"54","Ballaigues","5744",2
-"55","Ballens","5423",2
-"56","Ballwil","1023",2
-"57","Basel","2701",63
-"58","Bassersdorf","52",1
-"59","Bauma","297",1
-"60","Bavois","5746",7
-"61","Beckenried","1501",8
-"62","Bedano","5148",2
-"63","Belfaux","2175",1
-"64","Bellach","2542",6
-"65","Bellevue","6606",2
-"66","Bellinzona","5002",59
-"67","Bellwald","6052",2
-"68","Belmont-Broye","2053",1
-"69","Belp","861",7
-"70","Benken (SG)","3312",1
-"71","Bergdietikon","4023",4
-"72","Bergün Filisur","3544",2
-"73","Berikon","4062",4
-"74","Beringen","2932",4
-"75","Bern","351",88
-"76","Bernex","6607",1
-"77","Beromünster","1081",1
-"78","Bettingen","2702",2
-"79","Bettlach","2543",2
-"80","Bettwil","4227",17
-"81","Bex","5402",3
-"82","Biasca","5281",2
-"83","Biberist","2513",8
-"84","Biel-Benken","2764",4
-"85","Biel/Bienne","371",40
-"86","Bielersee (BE)","9149",2
-"87","Bière","5425",2
-"88","Binn","6054",4
-"89","Bioggio","5151",3
-"90","Birmensdorf (ZH)","242",4
-"91","Birmenstorf (AG)","4024",2
-"92","Birsfelden","2766",2
-"93","Bischofszell","4471",1
-"94","Bissone","5154",2
-"95","Bitsch","6173",1
-"96","Blenio","5049",2
-"97","Blonay","5881",2
-"98","Böckten","2842",1
-"99","Bolligen","352",1
-"100","Bösingen","2295",3
-"101","Bossonnens","2323",2
-"102","Boswil","4228",1
-"103","Bottenwil","4273",1
-"104","Bottmingen","2767",2
-"105","Böttstein","4303",1
-"106","Boudry","6404",8
-"107","Bougy-Villars","5426",6
-"108","Bourg-en-Lavaux","5613",10
-"109","Bourg-Saint-Pierre","6032",1
-"110","Bovernier","6131",1
-"111","Bregaglia","3792",1
-"112","Breggia","5269",1
-"113","Breil/Brigels","3981",1
-"114","Breitenbach","2613",3
-"115","Bremblens","5622",8
-"116","Bremgarten (AG)","4063",7
-"117","Bretzwil","2883",2
-"118","Brienzersee","9089",2
-"119","Brig-Glis","6002",9
-"120","Brione sopra Minusio","5096",1
-"121","Brislach","2782",2
-"122","Brissago","5097",2
-"123","Brittnau","4274",1
-"124","Broc","2124",2
-"125","Brugg","4095",12
-"126","Brügg","733",9
-"127","Brusio","3551",4
-"128","Bubendorf","2823",2
-"129","Buchegg","2465",2
-"130","Buchrain","1052",13
-"131","Buchs (AG)","4003",16
-"132","Buchs (SG)","3271",12
-"133","Buchs (ZH)","83",1
-"134","Büetigen","382",1
-"135","Bülach","53",4
-"136","Bulle","2125",15
-"137","Bullet","5552",1
-"138","Büren an der Aare","383",2
-"139","Burgdorf","404",11
-"140","Büron","1082",2
-"141","Bursinel","5852",2
-"142","Bursins","5853",13
-"143","Bussigny","5624",25
-"144","Bütschwil-Ganterschwil","3395",2
-"145","Cadempino","5162",4
-"146","Canobbio","5167",4
-"147","Capriasca","5226",2
-"148","Carouge (GE)","6608",14
-"149","Caslano","5171",5
-"150","Castel San Pietro","5249",1
-"151","Celerina/Schlarigna","3782",4
-"152","Cevio","5310",2
-"153","Chalais","6232",4
-"154","Cham","1702",15
-"155","Chamoson","6022",3
-"156","Champagne","5553",4
-"157","Champéry","6151",2
-"158","character(0)","numeric(0)",208
-"159","Chardonne","5882",2
-"160","Château-d'Oex","5841",4
-"161","Châtel-Saint-Denis","2325",4
-"162","Chavannes-de-Bogis","5707",2
-"163","Chavannes-près-Renens","5627",5
-"164","Chavornay","5749",2
-"165","Chêne-Bougeries","6612",1
-"166","Chêne-Bourg","6613",1
-"167","Cheseaux-sur-Lausanne","5582",5
-"168","Chevroux","5813",4
-"169","Cheyres-Châbles","2055",2
-"170","Chiasso","5250",12
-"171","Chur","3901",56
-"172","Churwalden","3911",2
-"173","Coldrerio","5251",7
-"174","Collina d'Oro","5236",12
-"175","Collombey-Muraz","6152",4
-"176","Collonge-Bellerive","6616",4
-"177","Cologny","6617",16
-"178","Comano","5176",2
-"179","Commugny","5711",4
-"180","Confignon","6618",5
-"181","Conthey","6023",13
-"182","Corcelles-près-Payerne","5816",2
-"183","Corgémont","431",1
-"184","Corminboeuf","2183",2
-"185","Cornaux","6451",2
-"186","Corsier-sur-Vevey","5884",1
-"187","Cortaillod","6408",2
-"188","Cossonay","5477",7
-"189","Courgevaux","2250",5
-"190","Courrendlin","6708",2
-"191","Courtelary","434",2
-"192","Crans-Montana","6253",10
-"193","Cressier (NE)","6452",1
-"194","Crissier","5583",23
-"195","Cudrefin","5456",1
-"196","Dallenwil","1503",2
-"197","Däniken","2572",2
-"198","Davos","3851",32
-"199","Degersheim","3401",1
-"200","Deitingen","2516",3
-"201","Delémont","6711",15
-"202","Derendingen","2517",4
-"203","Develier","6712",4
-"204","Diegten","2884",4
-"205","Dielsdorf","86",6
-"206","Diepoldsau","3234",2
-"207","Dietikon","243",35
-"208","Dietlikon","54",2
-"209","Dinhard","216",1
-"210","Dintikon","4194",4
-"211","Disentis/Mustér","3982",10
-"212","Dornach","2473",5
-"213","Dottikon","4065",3
-"214","Döttingen","4304",2
-"215","Dübendorf","191",10
-"216","Düdingen","2293",3
-"217","Duggingen","2785",1
-"218","Dürnten","113",2
-"219","Ebikon","1054",10
-"220","Ebnat-Kappel","3352",3
-"221","Echallens","5518",3
-"222","Echandens","5633",1
-"223","Eclépens","5482",2
-"224","Ecublens (VD)","5635",37
-"225","Egerkingen","2401",18
-"226","Egg","192",2
-"227","Eggiwil","901",2
-"228","Eglisau","55",2
-"229","Egnach","4411",2
-"230","Egolzwil","1127",1
-"231","Eich","1084",5
-"232","Einsiedeln","1301",5
-"233","Elsau","219",2
-"234","Embrach","56",1
-"235","Emmen","1024",12
-"236","Emmetten","1504",2
-"237","Engelberg","1402",4
-"238","Ennetmoos","1506",2
-"239","Epalinges","5584",4
-"240","Erlach","492",2
-"241","Erlinsbach (AG)","4005",5
-"242","Erlinsbach (SO)","2503",4
-"243","Ermatingen","4646",5
-"244","Ernen","6056",2
-"245","Erstfeld","1206",14
-"246","Eschen","7007",3
-"247","Eschenbach (LU)","1026",1
-"248","Eschenbach (SG)","3342",7
-"249","Escholzmatt-Marbach","1010",3
-"250","Estavayer","2054",11
-"251","Etoy","5636",5
-"252","Ettingen","2768",2
-"253","Evolène","6083",5
-"254","Fahrwangen","4196",4
-"255","Faido","5072",6
-"256","Falera","3572",2
-"257","Fällanden","193",2
-"258","Féchy","5427",2
-"259","Fehraltorf","172",2
-"260","Feldbrunnen-St. Niklaus","2544",2
-"261","Ferpicloz","2194",3
-"262","Feuerthalen","27",3
-"263","Feusisberg","1321",6
-"264","Fiesch","6057",2
-"265","Finhaut","6214",3
-"266","Fischenthal","114",1
-"267","Flüelen","1207",6
-"268","Flühli","1004",4
-"269","Flumenthal","2545",7
-"270","Flums","3292",12
-"271","Flurlingen","29",3
-"272","Forel (Lavaux)","5604",3
-"273","Founex","5717",2
-"274","Fraubrunnen","538",2
-"275","Frauenfeld","4566",17
-"276","Frauenkappelen","663",2
-"277","Freienbach","1322",16
-"278","Frenkendorf","2824",2
-"279","Fribourg","2196",15
-"280","Frick","4163",7
-"281","Frutigen","563",4
-"282","Füllinsdorf","2825",2
-"283","Fully","6133",3
-"284","Furna","3862",2
-"285","Gais","3022",4
-"286","Gaiserwald","3442",2
-"287","Galgenen","1342",2
-"288","Gambarogno","5398",7
-"289","Gams","3272",2
-"290","Gebenstorf","4029",3
-"291","Gelterkinden","2846",2
-"292","Genève","6621",111
-"293","Genolier","5718",6
-"294","Gerlafingen","2519",2
-"295","Geroldswil","244",1
-"296","Gersau","1311",1
-"297","Gibloux","2236",6
-"298","Gilly","5857",1
-"299","Giswil","1403",1
-"300","Givisiez","2197",2
-"301","Gland","5721",8
-"302","Glarus","1632",17
-"303","Glarus Nord","1630",23
-"304","Glarus Süd","1631",19
-"305","Glattfelden","58",1
-"306","Goldach","3213",5
-"307","Gommiswald","3341",2
-"308","Goms","6077",2
-"309","Gonten","3102",3
-"310","Gontenschwil","4135",2
-"311","Gordola","5108",1
-"312","Gossau (SG)","3443",24
-"313","Gossau (ZH)","115",1
-"314","Grabs","3273",3
-"315","Grancia","5186",1
-"316","Grandson","5561",4
-"317","Granges-Paccot","2198",8
-"318","Gränichen","4006",3
-"319","Gravesano","5187",2
-"320","Grellingen","2786",2
-"321","Grenchen","2546",11
-"322","Grengiols","6177",6
-"323","Grimisuat","6263",2
-"324","Grindel","2617",2
-"325","Grindelwald","576",12
-"326","Grône","6238",2
-"327","Gruyères","2135",5
-"328","Gryon","5405",3
-"329","Gsteigwiler","577",1
-"330","Gunzgen","2578",6
-"331","Güttingen","4656",2
-"332","Hägendorf","2579",11
-"333","Hagneck","736",1
-"334","Härkingen","2402",6
-"335","Haut-Intyamon","2121",2
-"336","Haute-Sorne","6729",1
-"337","Hautemorges","5656",1
-"338","Hauterive (FR)","2233",2
-"339","Hauterive (NE)","6454",2
-"340","Heiden","3032",4
-"341","Heimberg","928",7
-"342","Hendschiken","4198",6
-"343","Henggart","31",2
-"344","Hérémence","6084",3
-"345","Hergiswil (NW)","1507",2
-"346","Hergiswil bei Willisau","1132",2
-"347","Herisau","3001",11
-"348","Herrliberg","152",1
-"349","Herzogenbuchsee","979",2
-"350","Hindelbank","409",2
-"351","Hinwil","117",18
-"352","Hirschthal","4007",1
-"353","Hitzkirch","1030",1
-"354","Hochdorf","1031",6
-"355","Hochwald","2475",2
-"356","Hofstetten-Flüh","2476",2
-"357","Holderbank (AG)","4199",2
-"358","Hölstein","2886",2
-"359","Holziken","4136",1
-"360","Horgen","295",8
-"361","Höri","60",3
-"362","Horn","4421",2
-"363","Horw","1058",6
-"364","Hundwil","3002",2
-"365","Hünenberg","1703",3
-"366","Hunzenschwil","4200",7
-"367","Icogne","6239",1
-"368","Ilanz/Glion","3619",5
-"369","Illnau-Effretikon","296",7
-"370","Inden","6109",2
-"371","Ingenbohl","1364",4
-"372","Innertkirchen","784",1
-"373","Interlaken","581",18
-"374","Inwil","1033",1
-"375","Ittigen","362",13
-"376","Jaun","2138",1
-"377","Jegenstorf","540",2
-"378","Jonschwil","3405",1
-"379","Jorat-Mézières","5806",2
-"380","Kaiseraugst","4252",9
-"381","Kaisten","4169",2
-"382","Kallnach","304",3
-"383","Kaltbrunn","3313",1
-"384","Kandergrund","564",1
-"385","Kaufdorf","869",1
-"386","Kehrsatz","870",3
-"387","Kemmental","4666",2
-"388","Kernenried","411",6
-"389","Kerns","1404",1
-"390","Kerzers","2265",4
-"391","Kirchberg (BE)","412",3
-"392","Kirchberg (SG)","3392",8
-"393","Klingnau","4309",2
-"394","Klosters","3871",10
-"395","Kloten","62",22
-"396","Knutwil","1089",10
-"397","Kölliken","4276",13
-"398","Köniz","355",18
-"399","Kreuzlingen","4671",20
-"400","Kriegstetten","2525",14
-"401","Kriens","1059",37
-"402","Küblis","3882",7
-"403","Künten","4031",2
-"404","Küsnacht (ZH)","154",9
-"405","Küssnacht (SZ)","1331",9
-"406","L'Abbaye","5871",4
-"407","L'Abergement","5741",1
-"408","La Chaux-de-Fonds","6421",20
-"409","La Grande Béroche","6417",4
-"410","La Neuveville","723",1
-"411","La Roche","2149",4
-"412","La Sagne","6423",2
-"413","La Sarraz","5498",2
-"414","La Tène","6461",8
-"415","La Tour-de-Peilz","5889",7
-"416","Laax","3575",2
-"417","Lac de Neuchâtel (NE)","9155",9
-"418","Lac Léman (VD)","9758",11
-"419","Lachen","1344",2
-"420","Lamone","5189",2
-"421","Lampenberg","2887",1
-"422","Lancy","6628",24
-"423","Landquart","3955",9
-"424","Langenbruck","2888",2
-"425","Langendorf","2550",2
-"426","Langenthal","329",24
-"427","Langnau am Albis","136",2
-"428","Langnau im Emmental","902",4
-"429","Lantsch/Lenz","3513",2
-"430","Lauenen","842",5
-"431","Lauerz","1365",4
-"432","Laufen","2787",5
-"433","Laufen-Uhwiesen","34",12
-"434","Lausanne","5586",62
-"435","Lausen","2828",2
-"436","Lauterbrunnen","584",7
-"437","Le Chenit","5872",15
-"438","Le Grand-Saconnex","6623",11
-"439","Le Lieu","5873",7
-"440","Le Locle","6436",12
-"441","Le Mont-sur-Lausanne","5587",6
-"442","Le Noirmont","6754",2
-"443","Le Vaud","5731",2
-"444","Lenk","792",4
-"445","Lens","6240",7
-"446","Lenzburg","4201",18
-"447","Les Ponts-de-Martel","6437",1
-"448","Les Verrières","6511",1
-"449","Leuk","6110",4
-"450","Leukerbad","6111",4
-"451","Leuzigen","388",2
-"452","Leysin","5407",6
-"453","Leytron","6135",1
-"454","Lichtensteig","3374",1
-"455","Liestal","2829",20
-"456","Lindau","176",16
-"457","Locarno","5113",21
-"458","Lohn-Ammannsegg","2526",2
-"459","Losone","5115",6
-"460","Lucens","5675",1
-"461","Lugano","5192",47
-"462","Lully (FR)","2025",21
-"463","Lumino","5010",1
-"464","Lungern","1405",1
-"465","Lupfig","4104",5
-"466","Lupsingen","2830",2
-"467","Luterbach","2527",6
-"468","Lütisburg","3393",2
-"469","Lutry","5606",2
-"470","Luzein","3891",2
-"471","Luzern","1061",36
-"472","Lyss","306",13
-"473","Lyssach","415",4
-"474","Madiswil","332",3
-"475","Madulain","3783",2
-"476","Mägenwil","4032",1
-"477","Magliaso","5193",2
-"478","Maienfeld","3953",27
-"479","Männedorf","155",1
-"480","Manno","5194",2
-"481","Marly","2206",12
-"482","Märstetten","4941",2
-"483","Martigny","6136",59
-"484","Martigny-Combe","6137",1
-"485","Massagno","5196",1
-"486","Matran","2208",3
-"487","Matten bei Interlaken","587",3
-"488","Matzingen","4591",3
-"489","Maur","195",1
-"490","Meggen","1063",2
-"491","Meinisberg","390",9
-"492","Meiringen","785",5
-"493","Meisterschwanden","4202",3
-"494","Melchnau","333",1
-"495","Melide","5198",18
-"496","Mellingen","4033",5
-"497","Mels","3293",6
-"498","Mendrisio","5254",63
-"499","Menziken","4139",8
-"500","Menznau","1136",2
-"501","Mesocco","3822",5
-"502","Messen","2457",2
-"503","Mettmenstetten","9",6
-"504","Mex (VD)","5489",2
-"505","Meyrin","6630",51
-"506","Mezzovico-Vira","5199",1
-"507","Miglieglia","5200",2
-"508","Milvignes","6416",3
-"509","Minusio","5118",7
-"510","Mont-Noble","6090",3
-"511","Mont-Vully","2284",1
-"512","Montagny-près-Yverdon","5922",6
-"513","Monteceneri","5238",8
-"514","Montfaucon","6751",2
-"515","Monthey","6153",12
-"516","Montreux","5886",12
-"517","Moosleerau","4277",2
-"518","Moosseedorf","544",6
-"519","Morbio Inferiore","5257",6
-"520","Mörel-Filet","6203",2
-"521","Morges","5642",28
-"522","Mörschwil","3214",3
-"523","Mosnang","3394",4
-"524","Moudon","5678",3
-"525","Moutier","700",3
-"526","Müllheim","4831",2
-"527","Mumpf","4255",8
-"528","Münchenbuchsee","546",6
-"529","Münchenstein","2769",12
-"530","Münchwilen (TG)","4746",5
-"531","Münsingen","616",12
-"532","Münsterlingen","4691",1
-"533","Muolen","3202",1
-"534","Muotathal","1367",14
-"535","Muralto","5120",6
-"536","Muri (AG)","4236",7
-"537","Muri bei Bern","356",8
-"538","Murten","2275",16
-"539","Muttenz","2770",25
-"540","Muzzano","5205",4
-"541","Naters","6007",3
-"542","Neckertal","3378",3
-"543","Neftenbach","223",7
-"544","Nendaz","6024",4
-"545","Nesslau","3360",1
-"546","Neuchâtel","6458",24
-"547","Neuenhof","4034",17
-"548","Neuenkirch","1093",16
-"549","Neuhausen am Rheinfall","2937",10
-"550","Neuheim","1705",4
-"551","Neunkirch","2904",1
-"552","Nidau","743",4
-"553","Niederbüren","3422",1
-"554","Niedergösgen","2495",2
-"555","Niederhasli","90",2
-"556","Niederhelfenschwil","3423",2
-"557","Niederweningen","91",6
-"558","Niederwil (AG)","4072",2
-"559","Noble-Contrée","6254",3
-"560","Nods","724",2
-"561","Nottwil","1094",4
-"562","Novaggio","5207",2
-"563","Novazzano","5260",8
-"564","Noville","5408",1
-"565","Nunningen","2621",2
-"566","Nyon","5724",18
-"567","Oberägeri","1706",4
-"568","Oberbipp","983",2
-"569","Oberbüren","3424",2
-"570","Oberdiessbach","619",2
-"571","Oberdorf (NW)","1508",4
-"572","Oberegg","3111",1
-"573","Oberems","6112",2
-"574","Oberengstringen","245",2
-"575","Oberentfelden","4010",10
-"576","Obergerlafingen","2528",2
-"577","Oberglatt","92",1
-"578","Oberiberg","1368",2
-"579","Oberkirch","1095",17
-"580","Oberriet (SG)","3254",5
-"581","Oberrohrdorf","4037",1
-"582","Oberrüti","4237",2
-"583","Obersiggenthal","4038",6
-"584","Oberuzwil","3407",3
-"585","Oberweningen","93",2
-"586","Oberwil (BL)","2771",3
-"587","Obfelden","10",10
-"588","Oensingen","2407",13
-"589","Oetwil am See","157",2
-"590","Oftringen","4280",30
-"591","Ollon","5409",4
-"592","Olten","2581",13
-"593","Onex","6631",2
-"594","Onsernone","5136",1
-"595","Opfikon","66",14
-"596","Orbe","5757",4
-"597","Origlio","5208",1
-"598","Ormont-Dessus","5411",9
-"599","Oron","5805",1
-"600","Orpund","744",3
-"601","Orsières","6034",4
-"602","Ossingen","37",1
-"603","Ostermundigen","363",13
-"604","Otelfingen","94",2
-"605","Paradiso","5210",2
-"606","Paudex","5588",1
-"607","Payerne","5822",12
-"608","Perly-Certoux","6632",4
-"609","Pfäffikon","177",14
-"610","Pfaffnau","1139",3
-"611","Pfeffingen","2772",2
-"612","Pfungen","224",4
-"613","Plaffeien","2299",4
-"614","Plan-les-Ouates","6633",13
-"615","Pollegio","5077",2
-"616","Pont-en-Ogoz","2122",6
-"617","Pontresina","3784",20
-"618","Porrentruy","6800",8
-"619","Port","745",1
-"620","Port-Valais","6154",1
-"621","Poschiavo","3561",14
-"622","Pratteln","2831",18
-"623","Prilly","5589",4
-"624","Puidoux","5607",8
-"625","Pully","5590",4
-"626","Puplinge","6636",2
-"627","Quarten","3295",7
-"628","Quinto","5079",14
-"629","Rapperswil-Jona","3340",9
-"630","Recherswil","2530",2
-"631","Reconvilier","703",1
-"632","Regensdorf","96",3
-"633","Rehetobel","3034",1
-"634","Reichenbach im Kandertal","567",2
-"635","Reiden","1140",2
-"636","Reinach (AG)","4141",4
-"637","Reinach (BL)","2773",16
-"638","Remigen","4110",1
-"639","Renens (VD)","5591",14
-"640","Rennaz","5412",9
-"641","Rheineck","3235",2
-"642","Rheinfelden","4258",3
-"643","Rheinwald","3714",4
-"644","Riaz","2148",2
-"645","Rickenbach (TG)","4751",4
-"646","Riddes","6139",4
-"647","Ried-Brig","6008",2
-"648","Riedholz","2554",2
-"649","Riehen","2703",2
-"650","Risch","1707",14
-"651","Riva San Vitale","5263",2
-"652","Roggwil (TG)","4431",6
-"653","Rohrbach","338",2
-"654","Rolle","5861",4
-"655","Romanel-sur-Lausanne","5592",6
-"656","Romanshorn","4436",4
-"657","Romont (FR)","2096",13
-"658","Root","1065",8
-"659","Rorschach","3215",2
-"660","Rorschacherberg","3216",1
-"661","Röschenz","2791",3
-"662","Rothenburg","1040",3
-"663","Rothenthurm","1370",1
-"664","Rothrist","4282",10
-"665","Rougemont","5843",1
-"666","Rovio","5219",2
-"667","Rubigen","623",16
-"668","Rudolfstetten-Friedlisberg","4075",5
-"669","Rümlang","97",11
-"670","Rupperswil","4206",4
-"671","Rüschegg","853",2
-"672","Russikon","178",2
-"673","Ruswil","1098",6
-"674","Rüte","3103",2
-"675","Rüti (ZH)","118",7
-"676","Saanen","843",27
-"677","Saas-Grund","6291",2
-"678","Sachseln","1406",1
-"679","Safenwil","4283",10
-"680","Saignelégier","6757",2
-"681","Saillon","6140",5
-"682","Saint-Blaise","6459",3
-"683","Saint-Cergue","5727",2
-"684","Saint-George","5434",2
-"685","Saint-Imier","443",6
-"686","Saint-Légier-La Chiésaz","5888",10
-"687","Saint-Léonard","6246",1
-"688","Saint-Martin (VS)","6087",2
-"689","Saint-Maurice","6217",3
-"690","Saint-Sulpice (VD)","5648",2
-"691","Salenstein","4851",2
-"692","Sâles","2152",2
-"693","Samedan","3786",9
-"694","Sant'Antonino","5017",8
-"695","Sargans","3296",6
-"696","Sarmenstorf","4076",3
-"697","Sarnen","1407",7
-"698","Satigny","6638",8
-"699","Sattel","1371",10
-"700","Savièse","6265",1
-"701","Savigny","5611",1
-"702","Saxon","6141",3
-"703","Schaffhausen","2939",37
-"704","Schänis","3315",4
-"705","Scharans","3638",1
-"706","Schattdorf","1213",10
-"707","Schattenhalb","786",2
-"708","Schenkon","1099",1
-"709","Schiers","3962",2
-"710","Schlieren","247",28
-"711","Schmerikon","3338",3
-"712","Schöftland","4144",2
-"713","Schönenbuch","2774",2
-"714","Schönenwerd","2583",4
-"715","Schongau","1041",1
-"716","Schötz","1143",1
-"717","Schübelbach","1346",2
-"718","Schüpfheim","1008",2
-"719","Schwende","3105",2
-"720","Schwerzenbach","197",2
-"721","Schwyz","1372",30
-"722","Scuol","3762",8
-"723","Seedorf (UR)","1214",2
-"724","Seegräben","119",2
-"725","Seelisberg","1215",2
-"726","Seengen","4208",2
-"727","Selzach","2556",2
-"728","Sembrancher","6035",7
-"729","Sempach","1102",7
-"730","Sennwald","3274",2
-"731","Seon","4209",2
-"732","Serravalle","5050",2
-"733","Servion","5799",2
-"734","Seuzach","227",14
-"735","Sevelen","3275",11
-"736","Sierre","6248",22
-"737","Signy-Avenex","5728",7
-"738","Sils im Engadin/Segl","3789",4
-"739","Silvaplana","3790",9
-"740","Sion","6266",63
-"741","Sirnach","4761",7
-"742","Sisikon","1217",2
-"743","Sisseln","4177",5
-"744","Solothurn","2601",12
-"745","Sonceboz-Sombeval","444",2
-"746","Sorengo","5225",2
-"747","Speicher","3023",4
-"748","Spiez","768",10
-"749","Spreitenbach","4040",34
-"750","St. Gallen","3203",79
-"751","St. Margrethen","3236",4
-"752","St. Moritz","3787",32
-"753","Stabio","5266",4
-"754","Stans","1509",18
-"755","Stansstad","1510",2
-"756","Steckborn","4864",2
-"757","Steffisburg","939",8
-"758","Steg-Hohtenn","6204",11
-"759","Stein (AG)","4260",4
-"760","Stein am Rhein","2964",4
-"761","Steinach","3217",4
-"762","Steinen","1373",4
-"763","Steinerberg","1374",1
-"764","Steinhausen","1708",3
-"765","Stettlen","358",7
-"766","Studen (BE)","749",2
-"767","Subingen","2532",1
-"768","Suhr","4012",6
-"769","Sulgen","4506",3
-"770","Sumiswald","957",3
-"771","Sursee","1103",26
-"772","Surses","3543",13
-"773","Tafers","2306",2
-"774","Tägerwilen","4696",8
-"775","Täsch","6295",12
-"776","Tenero-Contra","5131",8
-"777","Termen","6010",2
-"778","Terre di Pedemonte","5396",2
-"779","Teufen (AR)","3024",3
-"780","Thal","3237",13
-"781","Thalwil","141",7
-"782","Thayngen","2920",8
-"783","Therwil","2775",7
-"784","Thônex","6640",21
-"785","Thun","942",47
-"786","Thundorf","4611",2
-"787","Thunersee","9073",7
-"788","Thunstetten","342",4
-"789","Thurnen","889",2
-"790","Thusis","3668",17
-"791","Tobel-Tägerschen","4776",2
-"792","Torricella-Taverne","5227",4
-"793","Tramelan","446",6
-"794","Tresa","5239",9
-"795","Triengen","1104",7
-"796","Triesen","7002",3
-"797","Trimmis","3945",2
-"798","Trogen","3025",1
-"799","Trubschachen","909",5
-"800","Trun","3987",2
-"801","Tujetsch","3986",8
-"802","Turbenthal","228",4
-"803","Turgi","4042",2
-"804","Ufhusen","1145",1
-"805","Uitikon","248",2
-"806","Unterägeri","1709",3
-"807","Unterengstringen","249",2
-"808","Unterentfelden","4013",7
-"809","Unteriberg","1375",1
-"810","Unterkulm","4146",2
-"811","Untersiggenthal","4044",1
-"812","Urnäsch","3006",2
-"813","Ursenbach","344",4
-"814","Urtenen-Schönbühl","551",4
-"815","Uster","198",26
-"816","Utzenstorf","552",4
-"817","Uznach","3339",6
-"818","Uzwil","3408",7
-"819","Vacallo","5268",2
-"820","Vaduz","7001",2
-"821","Val de Bagnes","6037",21
-"822","Val Müstair","3847",3
-"823","Val-d'Illiez","6157",5
-"824","Val-de-Charmey","2163",2
-"825","Val-de-Ruz","6487",10
-"826","Val-de-Travers","6512",11
-"827","Vallon","2045",2
-"828","Vallorbe","5764",5
-"829","Vals","3603",1
-"830","Vandoeuvres","6642",2
-"831","Varen","6116",2
-"832","Vaz/Obervaz","3506",4
-"833","Vechigen","359",1
-"834","Vendlincourt","6806",1
-"835","Vernate","5230",2
-"836","Vernayaz","6219",1
-"837","Vernier","6643",24
-"838","Versoix","6644",22
-"839","Verzasca","5399",2
-"840","Vétroz","6025",8
-"841","Vevey","5890",14
-"842","Vex","6089",5
-"843","Veysonnaz","6267",2
-"844","Vezia","5231",2
-"845","Vich","5732",1
-"846","Villars-sous-Yens","5652",1
-"847","Villars-sur-Glâne","2228",11
-"848","Villaz","2117",2
-"849","Villeneuve (VD)","5414",7
-"850","Villmergen","4080",4
-"851","Vilters-Wangs","3297",11
-"852","Vionnaz","6158",3
-"853","Visp","6297",5
-"854","Visperterminen","6298",4
-"855","Vitznau","1068",6
-"856","Volketswil","199",15
-"857","Wädenswil","293",7
-"858","Walchwil","1710",2
-"859","Wald (ZH)","120",7
-"860","Wäldi","4701",2
-"861","Waldkirch","3444",6
-"862","Waldstatt","3007",1
-"863","Walenstadt","3298",4
-"864","Wallisellen","69",30
-"865","Walperswil","754",2
-"866","Walzenhausen","3037",4
-"867","Wangen-Brüttisellen","200",1
-"868","Wartau","3276",2
-"869","Wattwil","3379",8
-"870","Weesen","3316",2
-"871","Weggis","1069",4
-"872","Weinfelden","4946",8
-"873","Weiningen (ZH)","251",3
-"874","Werthenstein","1009",1
-"875","Wettingen","4045",13
-"876","Wettswil am Albis","14",4
-"877","Wetzikon (ZH)","121",10
-"878","Wil (SG)","3427",23
-"879","Wildberg","182",1
-"880","Wildhaus-Alt St. Johann","3359",5
-"881","Willisau","1151",5
-"882","Windisch","4123",12
-"883","Winterthur","230",56
-"884","Winznau","2501",2
-"885","Wittenbach","3204",6
-"886","Wohlen (AG)","4082",6
-"887","Wohlen bei Bern","360",4
-"888","Wolfenschiessen","1511",2
-"889","Wolhusen","1107",1
-"890","Worb","627",6
-"891","Wünnewil-Flamatt","2309",3
-"892","Würenlingen","4047",5
-"893","Wyssachen","960",1
-"894","Yverdon-les-Bains","5938",26
-"895","Yvonand","5939",2
-"896","Zeneggen","6299",2
-"897","Zernez","3746",10
-"898","Zillis-Reischen","3712",2
-"899","Zizers","3947",4
-"900","Zofingen","4289",5
-"901","Zollikofen","361",4
-"902","Zollikon","161",3
-"903","Zuchwil","2534",9
-"904","Zug","1711",47
-"905","Zumikon","160",2
-"906","Zuoz","3791",2
-"907","Zürich","261",166
-"908","Zürichsee (ZH)","9051",19
-"909","Zuzwil (SG)","3426",1
-"910","Zweisimmen","794",5
-"911","Zwischbergen","6011",2
+"gemeindename","bfs_num","Anzahl_Ladestationen"
+"Aadorf","4551",5
+"Aarau","4001",46
+"Aarberg","301",5
+"Aarburg","4271",5
+"Adelboden","561",14
+"Adlikon","21",1
+"Adliswil","131",33
+"Aesch (BL)","2761",12
+"Affeltrangen","4711",2
+"Affoltern am Albis","2",3
+"Agno","5141",2
+"Aigle","5401",13
+"Aire-la-Ville","6601",4
+"Airolo","5061",6
+"Albula/Alvra","3542",3
+"Allaman","5851",4
+"Allschwil","2762",7
+"Alpnach","1401",1
+"Altdorf (UR)","1201",10
+"Altendorf","1341",5
+"Altstätten","3251",6
+"Amden","3311",2
+"Amlikon-Bissegg","4881",2
+"Amriswil","4461",8
+"Andeer","3701",2
+"Andermatt","1202",3
+"Andwil (SG)","3441",1
+"Anières","6602",1
+"Anniviers","6252",6
+"Appenzell","3101",5
+"Aranno","5143",1
+"Arbaz","6261",1
+"Arbedo-Castione","5001",6
+"Arbon","4401",7
+"Ardon","6021",1
+"Arlesheim","2763",4
+"Arni (BE)","602",1
+"Arosa","3921",8
+"Arth","1362",2
+"Attalens","2321",3
+"Au (SG)","3231",5
+"Aubonne","5422",6
+"Auw","4223",1
+"Avegno Gordevio","5324",4
+"Avenches","5451",2
+"Ayent","6082",6
+"Baar","1701",72
+"Bachenbülach","51",10
+"Bad Ragaz","3291",9
+"Bad Zurzach","4323",3
+"Baden","4021",21
+"Balerna","5242",6
+"Balgach","3232",1
+"Ballaigues","5744",2
+"Ballens","5423",2
+"Ballwil","1023",2
+"Basel","2701",63
+"Bassersdorf","52",1
+"Bauma","297",1
+"Bavois","5746",7
+"Beckenried","1501",8
+"Bedano","5148",2
+"Belfaux","2175",1
+"Bellach","2542",6
+"Bellevue","6606",2
+"Bellinzona","5002",59
+"Bellwald","6052",2
+"Belmont-Broye","2053",1
+"Belp","861",7
+"Benken (SG)","3312",1
+"Bergdietikon","4023",4
+"Bergün Filisur","3544",2
+"Berikon","4062",4
+"Beringen","2932",4
+"Bern","351",88
+"Bernex","6607",1
+"Beromünster","1081",1
+"Bettingen","2702",2
+"Bettlach","2543",2
+"Bettwil","4227",17
+"Bex","5402",3
+"Biasca","5281",2
+"Biberist","2513",8
+"Biel-Benken","2764",4
+"Biel/Bienne","371",40
+"Bielersee (BE)","9149",2
+"Bière","5425",2
+"Binn","6054",4
+"Bioggio","5151",3
+"Birmensdorf (ZH)","242",4
+"Birmenstorf (AG)","4024",2
+"Birsfelden","2766",2
+"Bischofszell","4471",1
+"Bissone","5154",2
+"Bitsch","6173",1
+"Blenio","5049",2
+"Blonay","5881",2
+"Böckten","2842",1
+"Bolligen","352",1
+"Bösingen","2295",3
+"Bossonnens","2323",2
+"Boswil","4228",1
+"Bottenwil","4273",1
+"Bottmingen","2767",2
+"Böttstein","4303",1
+"Boudry","6404",8
+"Bougy-Villars","5426",6
+"Bourg-en-Lavaux","5613",10
+"Bourg-Saint-Pierre","6032",1
+"Bovernier","6131",1
+"Bregaglia","3792",1
+"Breggia","5269",1
+"Breil/Brigels","3981",1
+"Breitenbach","2613",3
+"Bremblens","5622",8
+"Bremgarten (AG)","4063",7
+"Bretzwil","2883",2
+"Brienzersee","9089",2
+"Brig-Glis","6002",9
+"Brione sopra Minusio","5096",1
+"Brislach","2782",2
+"Brissago","5097",2
+"Brittnau","4274",1
+"Broc","2124",2
+"Brugg","4095",12
+"Brügg","733",9
+"Brusio","3551",4
+"Bubendorf","2823",2
+"Buchegg","2465",2
+"Buchrain","1052",13
+"Buchs (AG)","4003",16
+"Buchs (SG)","3271",12
+"Buchs (ZH)","83",1
+"Büetigen","382",1
+"Bülach","53",4
+"Bulle","2125",15
+"Bullet","5552",1
+"Büren an der Aare","383",2
+"Burgdorf","404",11
+"Büron","1082",2
+"Bursinel","5852",2
+"Bursins","5853",13
+"Bussigny","5624",25
+"Bütschwil-Ganterschwil","3395",2
+"Cadempino","5162",4
+"Canobbio","5167",4
+"Capriasca","5226",2
+"Carouge (GE)","6608",14
+"Caslano","5171",5
+"Castel San Pietro","5249",1
+"Celerina/Schlarigna","3782",4
+"Cevio","5310",2
+"Chalais","6232",4
+"Cham","1702",15
+"Chamoson","6022",3
+"Champagne","5553",4
+"Champéry","6151",2
+"character(0)","numeric(0)",208
+"Chardonne","5882",2
+"Château-d'Oex","5841",4
+"Châtel-Saint-Denis","2325",4
+"Chavannes-de-Bogis","5707",2
+"Chavannes-près-Renens","5627",5
+"Chavornay","5749",2
+"Chêne-Bougeries","6612",1
+"Chêne-Bourg","6613",1
+"Cheseaux-sur-Lausanne","5582",5
+"Chevroux","5813",4
+"Cheyres-Châbles","2055",2
+"Chiasso","5250",12
+"Chur","3901",56
+"Churwalden","3911",2
+"Coldrerio","5251",7
+"Collina d'Oro","5236",12
+"Collombey-Muraz","6152",4
+"Collonge-Bellerive","6616",4
+"Cologny","6617",16
+"Comano","5176",2
+"Commugny","5711",4
+"Confignon","6618",5
+"Conthey","6023",13
+"Corcelles-près-Payerne","5816",2
+"Corgémont","431",1
+"Corminboeuf","2183",2
+"Cornaux","6451",2
+"Corsier-sur-Vevey","5884",1
+"Cortaillod","6408",2
+"Cossonay","5477",7
+"Courgevaux","2250",5
+"Courrendlin","6708",2
+"Courtelary","434",2
+"Crans-Montana","6253",10
+"Cressier (NE)","6452",1
+"Crissier","5583",23
+"Cudrefin","5456",1
+"Dallenwil","1503",2
+"Däniken","2572",2
+"Davos","3851",32
+"Degersheim","3401",1
+"Deitingen","2516",3
+"Delémont","6711",15
+"Derendingen","2517",4
+"Develier","6712",4
+"Diegten","2884",4
+"Dielsdorf","86",6
+"Diepoldsau","3234",2
+"Dietikon","243",35
+"Dietlikon","54",2
+"Dinhard","216",1
+"Dintikon","4194",4
+"Disentis/Mustér","3982",10
+"Dornach","2473",5
+"Dottikon","4065",3
+"Döttingen","4304",2
+"Dübendorf","191",10
+"Düdingen","2293",3
+"Duggingen","2785",1
+"Dürnten","113",2
+"Ebikon","1054",10
+"Ebnat-Kappel","3352",3
+"Echallens","5518",3
+"Echandens","5633",1
+"Eclépens","5482",2
+"Ecublens (VD)","5635",37
+"Egerkingen","2401",18
+"Egg","192",2
+"Eggiwil","901",2
+"Eglisau","55",2
+"Egnach","4411",2
+"Egolzwil","1127",1
+"Eich","1084",5
+"Einsiedeln","1301",5
+"Elsau","219",2
+"Embrach","56",1
+"Emmen","1024",12
+"Emmetten","1504",2
+"Engelberg","1402",4
+"Ennetmoos","1506",2
+"Epalinges","5584",4
+"Erlach","492",2
+"Erlinsbach (AG)","4005",5
+"Erlinsbach (SO)","2503",4
+"Ermatingen","4646",5
+"Ernen","6056",2
+"Erstfeld","1206",14
+"Eschen","7007",3
+"Eschenbach (LU)","1026",1
+"Eschenbach (SG)","3342",7
+"Escholzmatt-Marbach","1010",3
+"Estavayer","2054",11
+"Etoy","5636",5
+"Ettingen","2768",2
+"Evolène","6083",5
+"Fahrwangen","4196",4
+"Faido","5072",6
+"Falera","3572",2
+"Fällanden","193",2
+"Féchy","5427",2
+"Fehraltorf","172",2
+"Feldbrunnen-St. Niklaus","2544",2
+"Ferpicloz","2194",3
+"Feuerthalen","27",3
+"Feusisberg","1321",6
+"Fiesch","6057",2
+"Finhaut","6214",3
+"Fischenthal","114",1
+"Flüelen","1207",6
+"Flühli","1004",4
+"Flumenthal","2545",7
+"Flums","3292",12
+"Flurlingen","29",3
+"Forel (Lavaux)","5604",3
+"Founex","5717",2
+"Fraubrunnen","538",2
+"Frauenfeld","4566",17
+"Frauenkappelen","663",2
+"Freienbach","1322",16
+"Frenkendorf","2824",2
+"Fribourg","2196",15
+"Frick","4163",7
+"Frutigen","563",4
+"Füllinsdorf","2825",2
+"Fully","6133",3
+"Furna","3862",2
+"Gais","3022",4
+"Gaiserwald","3442",2
+"Galgenen","1342",2
+"Gambarogno","5398",7
+"Gams","3272",2
+"Gebenstorf","4029",3
+"Gelterkinden","2846",2
+"Genève","6621",111
+"Genolier","5718",6
+"Gerlafingen","2519",2
+"Geroldswil","244",1
+"Gersau","1311",1
+"Gibloux","2236",6
+"Gilly","5857",1
+"Giswil","1403",1
+"Givisiez","2197",2
+"Gland","5721",8
+"Glarus","1632",17
+"Glarus Nord","1630",23
+"Glarus Süd","1631",19
+"Glattfelden","58",1
+"Goldach","3213",5
+"Gommiswald","3341",2
+"Goms","6077",2
+"Gonten","3102",3
+"Gontenschwil","4135",2
+"Gordola","5108",1
+"Gossau (SG)","3443",24
+"Gossau (ZH)","115",1
+"Grabs","3273",3
+"Grancia","5186",1
+"Grandson","5561",4
+"Granges-Paccot","2198",8
+"Gränichen","4006",3
+"Gravesano","5187",2
+"Grellingen","2786",2
+"Grenchen","2546",11
+"Grengiols","6177",6
+"Grimisuat","6263",2
+"Grindel","2617",2
+"Grindelwald","576",12
+"Grône","6238",2
+"Gruyères","2135",5
+"Gryon","5405",3
+"Gsteigwiler","577",1
+"Gunzgen","2578",6
+"Güttingen","4656",2
+"Hägendorf","2579",11
+"Hagneck","736",1
+"Härkingen","2402",6
+"Haut-Intyamon","2121",2
+"Haute-Sorne","6729",1
+"Hautemorges","5656",1
+"Hauterive (FR)","2233",2
+"Hauterive (NE)","6454",2
+"Heiden","3032",4
+"Heimberg","928",7
+"Hendschiken","4198",6
+"Henggart","31",2
+"Hérémence","6084",3
+"Hergiswil (NW)","1507",2
+"Hergiswil bei Willisau","1132",2
+"Herisau","3001",11
+"Herrliberg","152",1
+"Herzogenbuchsee","979",2
+"Hindelbank","409",2
+"Hinwil","117",18
+"Hirschthal","4007",1
+"Hitzkirch","1030",1
+"Hochdorf","1031",6
+"Hochwald","2475",2
+"Hofstetten-Flüh","2476",2
+"Holderbank (AG)","4199",2
+"Hölstein","2886",2
+"Holziken","4136",1
+"Horgen","295",8
+"Höri","60",3
+"Horn","4421",2
+"Horw","1058",6
+"Hundwil","3002",2
+"Hünenberg","1703",3
+"Hunzenschwil","4200",7
+"Icogne","6239",1
+"Ilanz/Glion","3619",5
+"Illnau-Effretikon","296",7
+"Inden","6109",2
+"Ingenbohl","1364",4
+"Innertkirchen","784",1
+"Interlaken","581",18
+"Inwil","1033",1
+"Ittigen","362",13
+"Jaun","2138",1
+"Jegenstorf","540",2
+"Jonschwil","3405",1
+"Jorat-Mézières","5806",2
+"Kaiseraugst","4252",9
+"Kaisten","4169",2
+"Kallnach","304",3
+"Kaltbrunn","3313",1
+"Kandergrund","564",1
+"Kaufdorf","869",1
+"Kehrsatz","870",3
+"Kemmental","4666",2
+"Kernenried","411",6
+"Kerns","1404",1
+"Kerzers","2265",4
+"Kirchberg (BE)","412",3
+"Kirchberg (SG)","3392",8
+"Klingnau","4309",2
+"Klosters","3871",10
+"Kloten","62",22
+"Knutwil","1089",10
+"Kölliken","4276",13
+"Köniz","355",18
+"Kreuzlingen","4671",20
+"Kriegstetten","2525",14
+"Kriens","1059",37
+"Küblis","3882",7
+"Künten","4031",2
+"Küsnacht (ZH)","154",9
+"Küssnacht (SZ)","1331",9
+"L'Abbaye","5871",4
+"L'Abergement","5741",1
+"La Chaux-de-Fonds","6421",20
+"La Grande Béroche","6417",4
+"La Neuveville","723",1
+"La Roche","2149",4
+"La Sagne","6423",2
+"La Sarraz","5498",2
+"La Tène","6461",8
+"La Tour-de-Peilz","5889",7
+"Laax","3575",2
+"Lac de Neuchâtel (NE)","9155",9
+"Lac Léman (VD)","9758",11
+"Lachen","1344",2
+"Lamone","5189",2
+"Lampenberg","2887",1
+"Lancy","6628",24
+"Landquart","3955",9
+"Langenbruck","2888",2
+"Langendorf","2550",2
+"Langenthal","329",24
+"Langnau am Albis","136",2
+"Langnau im Emmental","902",4
+"Lantsch/Lenz","3513",2
+"Lauenen","842",5
+"Lauerz","1365",4
+"Laufen","2787",5
+"Laufen-Uhwiesen","34",12
+"Lausanne","5586",62
+"Lausen","2828",2
+"Lauterbrunnen","584",7
+"Le Chenit","5872",15
+"Le Grand-Saconnex","6623",11
+"Le Lieu","5873",7
+"Le Locle","6436",12
+"Le Mont-sur-Lausanne","5587",6
+"Le Noirmont","6754",2
+"Le Vaud","5731",2
+"Lenk","792",4
+"Lens","6240",7
+"Lenzburg","4201",18
+"Les Ponts-de-Martel","6437",1
+"Les Verrières","6511",1
+"Leuk","6110",4
+"Leukerbad","6111",4
+"Leuzigen","388",2
+"Leysin","5407",6
+"Leytron","6135",1
+"Lichtensteig","3374",1
+"Liestal","2829",20
+"Lindau","176",16
+"Locarno","5113",21
+"Lohn-Ammannsegg","2526",2
+"Losone","5115",6
+"Lucens","5675",1
+"Lugano","5192",47
+"Lully (FR)","2025",21
+"Lumino","5010",1
+"Lungern","1405",1
+"Lupfig","4104",5
+"Lupsingen","2830",2
+"Luterbach","2527",6
+"Lütisburg","3393",2
+"Lutry","5606",2
+"Luzein","3891",2
+"Luzern","1061",36
+"Lyss","306",13
+"Lyssach","415",4
+"Madiswil","332",3
+"Madulain","3783",2
+"Mägenwil","4032",1
+"Magliaso","5193",2
+"Maienfeld","3953",27
+"Männedorf","155",1
+"Manno","5194",2
+"Marly","2206",12
+"Märstetten","4941",2
+"Martigny","6136",59
+"Martigny-Combe","6137",1
+"Massagno","5196",1
+"Matran","2208",3
+"Matten bei Interlaken","587",3
+"Matzingen","4591",3
+"Maur","195",1
+"Meggen","1063",2
+"Meinisberg","390",9
+"Meiringen","785",5
+"Meisterschwanden","4202",3
+"Melchnau","333",1
+"Melide","5198",18
+"Mellingen","4033",5
+"Mels","3293",6
+"Mendrisio","5254",63
+"Menziken","4139",8
+"Menznau","1136",2
+"Mesocco","3822",5
+"Messen","2457",2
+"Mettmenstetten","9",6
+"Mex (VD)","5489",2
+"Meyrin","6630",51
+"Mezzovico-Vira","5199",1
+"Miglieglia","5200",2
+"Milvignes","6416",3
+"Minusio","5118",7
+"Mont-Noble","6090",3
+"Mont-Vully","2284",1
+"Montagny-près-Yverdon","5922",6
+"Monteceneri","5238",8
+"Montfaucon","6751",2
+"Monthey","6153",12
+"Montreux","5886",12
+"Moosleerau","4277",2
+"Moosseedorf","544",6
+"Morbio Inferiore","5257",6
+"Mörel-Filet","6203",2
+"Morges","5642",28
+"Mörschwil","3214",3
+"Mosnang","3394",4
+"Moudon","5678",3
+"Moutier","700",3
+"Müllheim","4831",2
+"Mumpf","4255",8
+"Münchenbuchsee","546",6
+"Münchenstein","2769",12
+"Münchwilen (TG)","4746",5
+"Münsingen","616",12
+"Münsterlingen","4691",1
+"Muolen","3202",1
+"Muotathal","1367",14
+"Muralto","5120",6
+"Muri (AG)","4236",7
+"Muri bei Bern","356",8
+"Murten","2275",16
+"Muttenz","2770",25
+"Muzzano","5205",4
+"Naters","6007",3
+"Neckertal","3378",3
+"Neftenbach","223",7
+"Nendaz","6024",4
+"Nesslau","3360",1
+"Neuchâtel","6458",24
+"Neuenhof","4034",17
+"Neuenkirch","1093",16
+"Neuhausen am Rheinfall","2937",10
+"Neuheim","1705",4
+"Neunkirch","2904",1
+"Nidau","743",4
+"Niederbüren","3422",1
+"Niedergösgen","2495",2
+"Niederhasli","90",2
+"Niederhelfenschwil","3423",2
+"Niederweningen","91",6
+"Niederwil (AG)","4072",2
+"Noble-Contrée","6254",3
+"Nods","724",2
+"Nottwil","1094",4
+"Novaggio","5207",2
+"Novazzano","5260",8
+"Noville","5408",1
+"Nunningen","2621",2
+"Nyon","5724",18
+"Oberägeri","1706",4
+"Oberbipp","983",2
+"Oberbüren","3424",2
+"Oberdiessbach","619",2
+"Oberdorf (NW)","1508",4
+"Oberegg","3111",1
+"Oberems","6112",2
+"Oberengstringen","245",2
+"Oberentfelden","4010",10
+"Obergerlafingen","2528",2
+"Oberglatt","92",1
+"Oberiberg","1368",2
+"Oberkirch","1095",17
+"Oberriet (SG)","3254",5
+"Oberrohrdorf","4037",1
+"Oberrüti","4237",2
+"Obersiggenthal","4038",6
+"Oberuzwil","3407",3
+"Oberweningen","93",2
+"Oberwil (BL)","2771",3
+"Obfelden","10",10
+"Oensingen","2407",13
+"Oetwil am See","157",2
+"Oftringen","4280",30
+"Ollon","5409",4
+"Olten","2581",13
+"Onex","6631",2
+"Onsernone","5136",1
+"Opfikon","66",14
+"Orbe","5757",4
+"Origlio","5208",1
+"Ormont-Dessus","5411",9
+"Oron","5805",1
+"Orpund","744",3
+"Orsières","6034",4
+"Ossingen","37",1
+"Ostermundigen","363",13
+"Otelfingen","94",2
+"Paradiso","5210",2
+"Paudex","5588",1
+"Payerne","5822",12
+"Perly-Certoux","6632",4
+"Pfäffikon","177",14
+"Pfaffnau","1139",3
+"Pfeffingen","2772",2
+"Pfungen","224",4
+"Plaffeien","2299",4
+"Plan-les-Ouates","6633",13
+"Pollegio","5077",2
+"Pont-en-Ogoz","2122",6
+"Pontresina","3784",20
+"Porrentruy","6800",8
+"Port","745",1
+"Port-Valais","6154",1
+"Poschiavo","3561",14
+"Pratteln","2831",18
+"Prilly","5589",4
+"Puidoux","5607",8
+"Pully","5590",4
+"Puplinge","6636",2
+"Quarten","3295",7
+"Quinto","5079",14
+"Rapperswil-Jona","3340",9
+"Recherswil","2530",2
+"Reconvilier","703",1
+"Regensdorf","96",3
+"Rehetobel","3034",1
+"Reichenbach im Kandertal","567",2
+"Reiden","1140",2
+"Reinach (AG)","4141",4
+"Reinach (BL)","2773",16
+"Remigen","4110",1
+"Renens (VD)","5591",14
+"Rennaz","5412",9
+"Rheineck","3235",2
+"Rheinfelden","4258",3
+"Rheinwald","3714",4
+"Riaz","2148",2
+"Rickenbach (TG)","4751",4
+"Riddes","6139",4
+"Ried-Brig","6008",2
+"Riedholz","2554",2
+"Riehen","2703",2
+"Risch","1707",14
+"Riva San Vitale","5263",2
+"Roggwil (TG)","4431",6
+"Rohrbach","338",2
+"Rolle","5861",4
+"Romanel-sur-Lausanne","5592",6
+"Romanshorn","4436",4
+"Romont (FR)","2096",13
+"Root","1065",8
+"Rorschach","3215",2
+"Rorschacherberg","3216",1
+"Röschenz","2791",3
+"Rothenburg","1040",3
+"Rothenthurm","1370",1
+"Rothrist","4282",10
+"Rougemont","5843",1
+"Rovio","5219",2
+"Rubigen","623",16
+"Rudolfstetten-Friedlisberg","4075",5
+"Rümlang","97",11
+"Rupperswil","4206",4
+"Rüschegg","853",2
+"Russikon","178",2
+"Ruswil","1098",6
+"Rüte","3103",2
+"Rüti (ZH)","118",7
+"Saanen","843",27
+"Saas-Grund","6291",2
+"Sachseln","1406",1
+"Safenwil","4283",10
+"Saignelégier","6757",2
+"Saillon","6140",5
+"Saint-Blaise","6459",3
+"Saint-Cergue","5727",2
+"Saint-George","5434",2
+"Saint-Imier","443",6
+"Saint-Légier-La Chiésaz","5888",10
+"Saint-Léonard","6246",1
+"Saint-Martin (VS)","6087",2
+"Saint-Maurice","6217",3
+"Saint-Sulpice (VD)","5648",2
+"Salenstein","4851",2
+"Sâles","2152",2
+"Samedan","3786",9
+"Sant'Antonino","5017",8
+"Sargans","3296",6
+"Sarmenstorf","4076",3
+"Sarnen","1407",7
+"Satigny","6638",8
+"Sattel","1371",10
+"Savièse","6265",1
+"Savigny","5611",1
+"Saxon","6141",3
+"Schaffhausen","2939",37
+"Schänis","3315",4
+"Scharans","3638",1
+"Schattdorf","1213",10
+"Schattenhalb","786",2
+"Schenkon","1099",1
+"Schiers","3962",2
+"Schlieren","247",28
+"Schmerikon","3338",3
+"Schöftland","4144",2
+"Schönenbuch","2774",2
+"Schönenwerd","2583",4
+"Schongau","1041",1
+"Schötz","1143",1
+"Schübelbach","1346",2
+"Schüpfheim","1008",2
+"Schwende","3105",2
+"Schwerzenbach","197",2
+"Schwyz","1372",30
+"Scuol","3762",8
+"Seedorf (UR)","1214",2
+"Seegräben","119",2
+"Seelisberg","1215",2
+"Seengen","4208",2
+"Selzach","2556",2
+"Sembrancher","6035",7
+"Sempach","1102",7
+"Sennwald","3274",2
+"Seon","4209",2
+"Serravalle","5050",2
+"Servion","5799",2
+"Seuzach","227",14
+"Sevelen","3275",11
+"Sierre","6248",22
+"Signy-Avenex","5728",7
+"Sils im Engadin/Segl","3789",4
+"Silvaplana","3790",9
+"Sion","6266",63
+"Sirnach","4761",7
+"Sisikon","1217",2
+"Sisseln","4177",5
+"Solothurn","2601",12
+"Sonceboz-Sombeval","444",2
+"Sorengo","5225",2
+"Speicher","3023",4
+"Spiez","768",10
+"Spreitenbach","4040",34
+"St. Gallen","3203",79
+"St. Margrethen","3236",4
+"St. Moritz","3787",32
+"Stabio","5266",4
+"Stans","1509",18
+"Stansstad","1510",2
+"Steckborn","4864",2
+"Steffisburg","939",8
+"Steg-Hohtenn","6204",11
+"Stein (AG)","4260",4
+"Stein am Rhein","2964",4
+"Steinach","3217",4
+"Steinen","1373",4
+"Steinerberg","1374",1
+"Steinhausen","1708",3
+"Stettlen","358",7
+"Studen (BE)","749",2
+"Subingen","2532",1
+"Suhr","4012",6
+"Sulgen","4506",3
+"Sumiswald","957",3
+"Sursee","1103",26
+"Surses","3543",13
+"Tafers","2306",2
+"Tägerwilen","4696",8
+"Täsch","6295",12
+"Tenero-Contra","5131",8
+"Termen","6010",2
+"Terre di Pedemonte","5396",2
+"Teufen (AR)","3024",3
+"Thal","3237",13
+"Thalwil","141",7
+"Thayngen","2920",8
+"Therwil","2775",7
+"Thônex","6640",21
+"Thun","942",47
+"Thundorf","4611",2
+"Thunersee","9073",7
+"Thunstetten","342",4
+"Thurnen","889",2
+"Thusis","3668",17
+"Tobel-Tägerschen","4776",2
+"Torricella-Taverne","5227",4
+"Tramelan","446",6
+"Tresa","5239",9
+"Triengen","1104",7
+"Triesen","7002",3
+"Trimmis","3945",2
+"Trogen","3025",1
+"Trubschachen","909",5
+"Trun","3987",2
+"Tujetsch","3986",8
+"Turbenthal","228",4
+"Turgi","4042",2
+"Ufhusen","1145",1
+"Uitikon","248",2
+"Unterägeri","1709",3
+"Unterengstringen","249",2
+"Unterentfelden","4013",7
+"Unteriberg","1375",1
+"Unterkulm","4146",2
+"Untersiggenthal","4044",1
+"Urnäsch","3006",2
+"Ursenbach","344",4
+"Urtenen-Schönbühl","551",4
+"Uster","198",26
+"Utzenstorf","552",4
+"Uznach","3339",6
+"Uzwil","3408",7
+"Vacallo","5268",2
+"Vaduz","7001",2
+"Val de Bagnes","6037",21
+"Val Müstair","3847",3
+"Val-d'Illiez","6157",5
+"Val-de-Charmey","2163",2
+"Val-de-Ruz","6487",10
+"Val-de-Travers","6512",11
+"Vallon","2045",2
+"Vallorbe","5764",5
+"Vals","3603",1
+"Vandoeuvres","6642",2
+"Varen","6116",2
+"Vaz/Obervaz","3506",4
+"Vechigen","359",1
+"Vendlincourt","6806",1
+"Vernate","5230",2
+"Vernayaz","6219",1
+"Vernier","6643",24
+"Versoix","6644",22
+"Verzasca","5399",2
+"Vétroz","6025",8
+"Vevey","5890",14
+"Vex","6089",5
+"Veysonnaz","6267",2
+"Vezia","5231",2
+"Vich","5732",1
+"Villars-sous-Yens","5652",1
+"Villars-sur-Glâne","2228",11
+"Villaz","2117",2
+"Villeneuve (VD)","5414",7
+"Villmergen","4080",4
+"Vilters-Wangs","3297",11
+"Vionnaz","6158",3
+"Visp","6297",5
+"Visperterminen","6298",4
+"Vitznau","1068",6
+"Volketswil","199",15
+"Wädenswil","293",7
+"Walchwil","1710",2
+"Wald (ZH)","120",7
+"Wäldi","4701",2
+"Waldkirch","3444",6
+"Waldstatt","3007",1
+"Walenstadt","3298",4
+"Wallisellen","69",30
+"Walperswil","754",2
+"Walzenhausen","3037",4
+"Wangen-Brüttisellen","200",1
+"Wartau","3276",2
+"Wattwil","3379",8
+"Weesen","3316",2
+"Weggis","1069",4
+"Weinfelden","4946",8
+"Weiningen (ZH)","251",3
+"Werthenstein","1009",1
+"Wettingen","4045",13
+"Wettswil am Albis","14",4
+"Wetzikon (ZH)","121",10
+"Wil (SG)","3427",23
+"Wildberg","182",1
+"Wildhaus-Alt St. Johann","3359",5
+"Willisau","1151",5
+"Windisch","4123",12
+"Winterthur","230",56
+"Winznau","2501",2
+"Wittenbach","3204",6
+"Wohlen (AG)","4082",6
+"Wohlen bei Bern","360",4
+"Wolfenschiessen","1511",2
+"Wolhusen","1107",1
+"Worb","627",6
+"Wünnewil-Flamatt","2309",3
+"Würenlingen","4047",5
+"Wyssachen","960",1
+"Yverdon-les-Bains","5938",26
+"Yvonand","5939",2
+"Zeneggen","6299",2
+"Zernez","3746",10
+"Zillis-Reischen","3712",2
+"Zizers","3947",4
+"Zofingen","4289",5
+"Zollikofen","361",4
+"Zollikon","161",3
+"Zuchwil","2534",9
+"Zug","1711",47
+"Zumikon","160",2
+"Zuoz","3791",2
+"Zürich","261",166
+"Zürichsee (ZH)","9051",19
+"Zuzwil (SG)","3426",1
+"Zweisimmen","794",5
+"Zwischbergen","6011",2

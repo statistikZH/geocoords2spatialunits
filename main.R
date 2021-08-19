@@ -72,4 +72,4 @@ write.csv(pnts,"output.csv",row.names=F)
 
 anz_ladestationen<-pnts %>%  group_by(gemeindename,bfs_num) %>% summarize(Anzahl_Ladestationen=n())
 
-write.csv(anz_ladestationen,"anzahl_ladestationen.csv")
+write.csv(anz_ladestationen,"anzahl_ladestationen.csv",row.names=F)
