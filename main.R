@@ -7,20 +7,39 @@ library(tidyverse)
 
 dat <- jsonlite::fromJSON("https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/data/oicp/ch.bfe.ladestellen-elektromobilitaet.json")
 
+
+dat_info <- dat$EVSEData$EVSEDataRecord
+
+
+ladestationen_coords <- tibble(
+    geocoordinates = map(dat_info, "GeoCoordinates")
+  ) %>%
+  unnest("geocoordinates") %>%
+  separate(Google,c("GKODE","GKODN"),sep=" ",convert=TRUE)
+
+ladestationen_sf <- st_as_sf(
+  ladestationen_coords,
+  coords = c("GKODN", "GKODE"),
+  crs = 4326,
+  agr = "constant"
+  ) %>%
+  st_transform(crs = 2056)
+
+
 #empty df to fill data in
-out<-data.frame()
+#out<-data.frame()
 
 #could be made more efficient, but loop through different brands
-for(i in dat[["EVSEData"]][[1]]){
-  #get geocoords of stations without any names or other
-  temp<-data.frame(geocoords=as.character(i$GeoCoordinates$Google))#,names=i$EvseID)
-
-  out<-rbind(out,temp)
-}
+# for(i in dat[["EVSEData"]][[1]]){
+#   #get geocoords of stations without any names or other
+#   temp<-data.frame(geocoords=as.character(i$GeoCoordinates$Google))#,names=i$EvseID)
+#
+#   out<-rbind(out,temp)
+# }
 #separate geocoords to two different columns
-pnts<-separate(out,geocoords,c("Longitude","Latitude"),sep=" ",convert=TRUE)
+#pnts<-separate(out,geocoords,c("Longitude","Latitude"),sep=" ",convert=TRUE)
 #Long and Lat have to be switched
-pnts<-pnts[,c(2,1)]
+#pnts<-pnts[,c(2,1)]
 
 
 # PART 2: Get Shapefile and join both together
@@ -34,42 +53,45 @@ unlink("data.zip")
 map <- read_sf("SHAPEFILE_LV95_LN02/swissBOUNDARIES3D_1_3_TLM_HOHEITSGEBIET.shp")
 
 
-# create a points collection
-pnts_sf <- do.call("st_sfc",c(lapply(1:nrow(pnts),
-                                     function(i) {st_point(as.numeric(pnts[i, ]))}), list("crs" = 4326)))
+ladestationen_bfsnr <- st_intersection(ladestationen_sf, map) %>%
+  st_drop_geometry()
 
-pnts_trans <- st_transform(pnts_sf, 2163) # apply transformation to pnts sf
-map_trans <- st_transform(map, 2163)      # apply transformation to polygons sf
+# create a points collection
+#pnts_sf <- do.call("st_sfc",c(lapply(1:nrow(pnts),
+#                                     function(i) {st_point(as.numeric(pnts[i, ]))}), list("crs" = 4326)))
+
+#pnts_trans <- st_transform(pnts_sf, 2163) # apply transformation to pnts sf
+#map_trans <- st_transform(map, 2163)      # apply transformation to polygons sf
 
 #remark: 2163 is a number for some conversion to metric.
 #I took it from people applying it tto the US and new zealand
 
 
 # intersect and extract gemeinde name
-pnts$gemeindename <- apply(st_intersects(map_trans, pnts_trans, sparse = FALSE), 2,
-                     function(col) {
-                       map_trans[which(col), ]$NAME
-                     })
+# pnts$gemeindename <- apply(st_intersects(map_trans, pnts_trans, sparse = FALSE), 2,
+#                      function(col) {
+#                        map_trans[which(col), ]$NAME
+#                      })
 
 #for the following I was just lazy and did same for kantonsnum and bfs_num
 #can of course be merged with above to have it quicker
-pnts$kantonsnum <- apply(st_intersects(map_trans, pnts_trans, sparse = FALSE), 2,
-                     function(col) {
-                       map_trans[which(col), ]$KANTONSNUM
-                     })
+# pnts$kantonsnum <- apply(st_intersects(map_trans, pnts_trans, sparse = FALSE), 2,
+#                      function(col) {
+#                        map_trans[which(col), ]$KANTONSNUM
+#                      })
 
-pnts$bfs_num <- apply(st_intersects(map_trans, pnts_trans, sparse = FALSE), 2,
-                         function(col) {
-                           map_trans[which(col), ]$BFS_NUMMER
-                         })
+# pnts$bfs_num <- apply(st_intersects(map_trans, pnts_trans, sparse = FALSE), 2,
+#                          function(col) {
+#                            map_trans[which(col), ]$BFS_NUMMER
+#                          })
 
-pnts$gemeindename<-as.character(pnts$gemeindename)
-pnts$kantonsnum<-as.character(pnts$kantonsnum)
-pnts$bfs_num<-as.character(pnts$bfs_num)
-head(pnts)
+# pnts$gemeindename<-as.character(pnts$gemeindename)
+# pnts$kantonsnum<-as.character(pnts$kantonsnum)
+# pnts$bfs_num<-as.character(pnts$bfs_num)
+# head(pnts)
 
-write.csv(pnts,"output.csv",row.names=F)
+#write.csv(pnts,"output.csv",row.names=F)
 
-anz_ladestationen<-pnts %>%  group_by(gemeindename,bfs_num) %>% summarize(Anzahl_Ladestationen=n())
+anz_ladestationen<- ladestationen_bfsnr %>%  group_by(NAME, BFS_NUMMER) %>% summarize(Anzahl_Ladestationen=n())
 
 write.csv(anz_ladestationen,"anzahl_ladestationen.csv",row.names=F)
